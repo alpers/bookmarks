@@ -1,4 +1,4 @@
-#CODE
+# CODE
 
 - Business
     - Progression Framework https://progression.monzo.com/
@@ -44,7 +44,6 @@
     - TR Denetleyici https://turkceyaz.com/
 
 - React
-    - 
     - Learn React https://www.learnstability.com/post/learn-react-2020
     - React-Admin https://marmelab.com/react-admin/
     - React Bootstrap UI https://react-bootstrap.github.io/
