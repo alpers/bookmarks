@@ -12,6 +12,7 @@
     - CS Courses https://github.com/ossu/computer-science
     - DevURLs https://devurls.com/
     - Ethical https://ethical.net/resources/
+    - GitHub Archive https://www.gharchive.org/
     - Hired In Tech https://www.hiredintech.com/
     - LeetCode https://leetcode.com/explore/
     - Veri Gizliliği https://verigizliligi.com/
@@ -28,6 +29,7 @@
     - Serverless Framework https://www.serverless.com/
 
 - Javascript
+    - Design Resources https://github.com/bradtraversy/design-resources-for-developers
     - FreeCodeCamp https://www.freecodecamp.org/learn/
     - One Page Templates https://onepagelove.com/tag/minimal
 
