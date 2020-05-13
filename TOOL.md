@@ -1,6 +1,7 @@
 # TOOLS & RESOURCES
 
 - Design
+    - CollectUI http://collectui.com/
     - Flaticon https://www.flaticon.com/
     - Font Spark https://fontspark.app/
     - Freepik https://www.freepik.com/
@@ -15,6 +16,7 @@
 - Gift
     - Always Fashion https://www.alwaysfashion.com/tr
     - Butik Kafası https://www.butikkafasi.com/
+    - Cool Material https://coolmaterial.com/
     - Etsy Printables https://www.etsy.com/search?q=printable
     - Gift Ideas https://www.goregistryhub.com/gift/ideas
     - Manifold https://manifold.press/diziler/manifold-seyler-kitap-afis-vesaire
