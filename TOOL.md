@@ -20,6 +20,7 @@
     - Manifold https://manifold.press/diziler/manifold-seyler-kitap-afis-vesaire
     - Kece İnadı http://keceinadi.com/
     - Palto Tasarım https://www.paltotasarim.com/
+    - PatentTalks https://patenttalks.com/
     - Society6 https://society6.com/
     - Sosyopix https://www.sosyopix.com/
     - Tasarım Takarım http://tasarimtakarim.com/
