@@ -59,6 +59,7 @@
     - Addresses https://nextymap.com
     - GlobeGenie http://www.globegenie.com/
     - Hackathons https://hackathonturkiye.com/
+    - Minimal List https://mnmll.ist/
     - Permaculture https://permies.com/
     - Visa List https://visalist.io/
     - Volunteer Jobs https://www.workaway.info
