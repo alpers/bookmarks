@@ -21,6 +21,7 @@
     - Gift Ideas https://www.goregistryhub.com/gift/ideas
     - Manifold https://manifold.press/diziler/manifold-seyler-kitap-afis-vesaire
     - Kece İnadı http://keceinadi.com/
+    - Minimalissimo https://minimalissimo.shop/
     - Palto Tasarım https://www.paltotasarim.com/
     - PatentTalks https://patenttalks.com/
     - Society6 https://society6.com/
