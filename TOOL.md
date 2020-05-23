@@ -45,11 +45,6 @@
     - Namechk https://namechk.com
     - PdfEscape https://www.pdfescape.com/
     - Print Fiendly https://www.printfriendly.com/
-    
-- Resources
-    - Learn Anything https://github.com/learn-anything/
-    - Max Bernstein https://bernsteinbear.com/favorites/
-    - Minimal List https://mnmll.ist/
 
 - Software
     - Handbrake Video https://handbrake.fr
