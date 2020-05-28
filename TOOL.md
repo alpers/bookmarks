@@ -42,6 +42,7 @@
     - Catonmat https://catonmat.net/programmer-tools
     - CombinePdf https://combinepdf.com/
     - Just Delete Me https://backgroundchecks.org/justdeleteme/
+    - Lean Domain Search https://leandomainsearch.com/search/
     - Namechk https://namechk.com
     - PdfEscape https://www.pdfescape.com/
     - Print Fiendly https://www.printfriendly.com/
