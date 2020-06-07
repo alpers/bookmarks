@@ -50,7 +50,7 @@
 - Software
     - Handbrake Video https://handbrake.fr
     - Ionica Player https://ionica.app/
-    - Macos-Awesome https://github.com/jaywcjlove/awesome-mac
+    - Macos-Awesome https://github.com/iCHAIT/awesome-macOS
     - Openshot https://www.openshot.org/
     - OSBoxes VMs https://www.osboxes.org/debian/
     - Remote Tools https://remote.tools/
