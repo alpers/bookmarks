@@ -17,6 +17,7 @@
     - LeetCode https://leetcode.com/explore/
     - Veri Gizliliği https://verigizliligi.com/
     - Video Courses https://github.com/Developer-Y/cs-video-courses
+    - Web Skills https://andreasbm.github.io/web-skills/
 
 - Java
     - Decompiler https://java-decompiler.github.io
@@ -29,6 +30,7 @@
     - Serverless Framework https://www.serverless.com/
 
 - Javascript
+    - Best of JS https://bestofjs.org/
     - Design Resources https://github.com/bradtraversy/design-resources-for-developers
     - FreeCodeCamp https://www.freecodecamp.org/learn/
     - One Page Templates https://onepagelove.com/tag/minimal
