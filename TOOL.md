@@ -2,6 +2,7 @@
 
 - Design
     - CollectUI http://collectui.com/
+    - Design Assistant https://hotpot.ai/
     - Flaticon https://www.flaticon.com/
     - Font Spark https://fontspark.app/
     - Freepik https://www.freepik.com/
@@ -11,7 +12,9 @@
     - Iconfinder https://www.iconfinder.com/
     - Inspiration https://www.evernote.design/categories/inspiration/
     - Image Resizer https://promo.com/tools/image-resizer/
+    - NoDesign Dev https://nodesign.dev/
     - Remove BG https://www.remove.bg/
+    - SVG Animation https://svgartista.net/
 
 - Gift
     - Always Fashion https://www.alwaysfashion.com/tr
@@ -32,6 +35,7 @@
 - Media & Entertainment
     - Live Streams https://explore.org/livecams/hawaii/hawaii-pipeline-cam
     - My Abandanware https://www.myabandonware.com/
+    - Noises https://noises.online/
     - OpenWhyd https://openwhyd.org/
     - Radio Garden http://radio.garden
     - Recommendations https://tastedive.com/
@@ -59,6 +63,7 @@
 
 - Travel & Life
     - Addresses https://nextymap.com
+    - Camping https://www.kampyerleri.org/turkiye-kamp-alanlari-haritasi/ 
     - GlobeGenie http://www.globegenie.com/
     - Hackathons https://hackathonturkiye.com/
     - Permaculture https://permies.com/
