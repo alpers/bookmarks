@@ -27,6 +27,7 @@
     - Minimalissimo https://minimalissimo.shop/
     - Palto Tasarım https://www.paltotasarim.com/
     - PatentTalks https://patenttalks.com/
+    - Roarcraft https://roarcraft.com.tr/
     - Society6 https://society6.com/
     - Sosyopix https://www.sosyopix.com/
     - Tasarım Takarım http://tasarimtakarim.com/
