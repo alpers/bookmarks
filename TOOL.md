@@ -41,6 +41,7 @@
     - Radio Garden http://radio.garden
     - Recommendations https://tastedive.com/
     - Samples https://filmstro.com/music/atmosphere
+    - Spec.fm https://spec.fm/
     - Soundtracks https://tastedive.com
 
 - Online
