@@ -43,6 +43,7 @@
     - Samples https://filmstro.com/music/atmosphere
     - Spec.fm https://spec.fm/
     - Soundtracks https://tastedive.com
+    - Wallpapers in Bing https://www.bingwallpaperhd.com/
 
 - Online
     - Catonmat https://catonmat.net/programmer-tools
