@@ -15,6 +15,7 @@
     - NoDesign Dev https://nodesign.dev/
     - Remove BG https://www.remove.bg/
     - SVG Animation https://svgartista.net/
+    - Tablericons https://tablericons.com/
 
 - Gift
     - Always Fashion https://www.alwaysfashion.com/tr
