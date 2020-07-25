@@ -23,6 +23,7 @@
     - Cool Material https://coolmaterial.com/
     - Etsy Printables https://www.etsy.com/search?q=printable
     - Gift Ideas https://www.goregistryhub.com/gift/ideas
+    - GüzelKelimeler https://www.guzelkelimelerdukkani.com/
     - Manifold https://manifold.press/diziler/manifold-seyler-kitap-afis-vesaire
     - Kece İnadı http://keceinadi.com/
     - Minimalissimo https://minimalissimo.shop/
