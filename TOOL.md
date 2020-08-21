@@ -19,6 +19,7 @@
 
 - Gift
     - Always Fashion https://www.alwaysfashion.com/tr
+    - Bohemtolia https://tr.bohemtolia.com/
     - Butik Kafası https://www.butikkafasi.com/
     - Cool Material https://coolmaterial.com/
     - Etsy Printables https://www.etsy.com/search?q=printable
