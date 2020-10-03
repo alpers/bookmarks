@@ -21,6 +21,7 @@
     - Always Fashion https://www.alwaysfashion.com/tr
     - Bohemtolia https://tr.bohemtolia.com/
     - Butik Kafası https://www.butikkafasi.com/
+    - BuyMeOnce https://buymeonce.com/
     - Cool Material https://coolmaterial.com/
     - Etsy Printables https://www.etsy.com/search?q=printable
     - Gift Ideas https://www.goregistryhub.com/gift/ideas
