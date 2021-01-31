@@ -12,6 +12,7 @@
     - CS Courses https://github.com/ossu/computer-science
     - DevURLs https://devurls.com/
     - Ethical https://ethical.net/resources/
+    - Free for Dev https://free-for.dev/#/
     - GitHub Archive https://www.gharchive.org/
     - Hired In Tech https://www.hiredintech.com/
     - LeetCode https://leetcode.com/explore/
