@@ -21,6 +21,7 @@
     - Web Skills https://andreasbm.github.io/web-skills/
 
 - Java
+    - Almanac https://javaalmanac.io
     - Decompiler https://java-decompiler.github.io
     - Java Environment https://www.jenv.be
     - JHipster https://www.jhipster.tech/
@@ -62,6 +63,7 @@
     - Input Formatter https://github.com/nosir/cleave.js
     - Macos Cleaner https://github.com/jgamblin/MacOS-Maid
     - Regex Validator https://ihateregex.io/
+    - Stats https://github.com/exelban/stats
     - Subtitle Sync https://github.com/smacke/ffsubsync
     - Text2Image https://github.com/justinmeiners/text2image
     - Validators https://mothereff.in/
