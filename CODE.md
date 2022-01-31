@@ -7,6 +7,7 @@
     - YCombinator DB https://www.ycdb.co/
 
 - CS & General
+    - APIs, Data, ML https://free-for.dev/#/?id=apis-data-and-ml
     - Açık-Kaynak https://acik-kaynak.org/#/
     - Algorithms Visualizations https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
     - CS Courses https://github.com/ossu/computer-science
