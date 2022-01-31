@@ -4,7 +4,10 @@
 Softwares, online tools, misc resources
 
 ## [CODE GUIDES](/CODE.md)
-CS articles, coding tools, guides, frameworks
+Coding tools, guides, frameworks
+
+## [RESEARCH ARTICLES](/RESEARCH.md)
+Computer Science articles, IR, NLP, ML, AI
 
 ## BUTTONS
 Create new bookmarks in favourites bar of your browser, then use them any opened page
