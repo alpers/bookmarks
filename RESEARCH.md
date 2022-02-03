@@ -1,8 +1,5 @@
 # RESEARCH
 
-- CS & General
-    - 
-
 
 - Information Retrieval
     - Attention Is All You Need https://arxiv.org/abs/1706.03762
@@ -24,3 +21,15 @@
     - Vision Transformer for Small-Size Datasets https://arxiv.org/abs/2112.13492
     - When Vision Transformers Outperform ResNets without Pre-training or Strong Data Augmentations https://arxiv.org/abs/2106.01548
 
+
+- Datasets
+    - Computer Vision Papers http://www.cvpapers.com/datasets.html
+    - Papers With Code Datasets https://paperswithcode.com/datasets
+        - ImageNet https://paperswithcode.com/dataset/imagenet
+        - DomainNet https://paperswithcode.com/dataset/domainnet
+        - COCO https://paperswithcode.com/dataset/coco
+        - WebVision https://paperswithcode.com/dataset/webvision-database
+        - Flickr30K https://paperswithcode.com/dataset/flickr30k-entities
+
+
+ 
