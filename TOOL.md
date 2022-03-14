@@ -2,6 +2,8 @@
 
 - Design
     - CollectUI http://collectui.com/
+    - ColorHunt https://colorhunt.co
+    - Coolors https://coolors.co
     - Design Assistant https://hotpot.ai/
     - Flaticon https://www.flaticon.com/
     - Font Spark https://fontspark.app/
