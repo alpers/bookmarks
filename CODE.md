@@ -50,6 +50,9 @@
     - Stanford NLP http://web.stanford.edu/class/cs224n/
     - TR Denetleyici https://turkceyaz.com/
 
+- Python
+    - Best of ML Tools https://github.com/ml-tooling/best-of-ml-python
+
 - React
     - Learn React https://www.learnstability.com/post/learn-react-2020
     - React-Admin https://marmelab.com/react-admin/
