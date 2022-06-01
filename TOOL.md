@@ -81,4 +81,5 @@
     - Permaculture https://permies.com/
     - Visa List https://visalist.io/
     - Volunteer Jobs https://www.workaway.info
+    - Valizim https://valizim.com
     - Weather https://www.yr.no/en
