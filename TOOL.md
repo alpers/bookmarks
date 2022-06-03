@@ -16,6 +16,7 @@
     - Image Resizer https://promo.com/tools/image-resizer/
     - NoDesign Dev https://nodesign.dev/
     - Remove BG https://www.remove.bg/
+    - SimpleIcons https://simpleicons.org/
     - SVG Animation https://svgartista.net/
     - Tablericons https://tablericons.com/
     - XnConvert https://www.xnview.com/en/xnconvert/
