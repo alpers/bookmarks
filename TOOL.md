@@ -32,6 +32,7 @@
     - GüzelKelimeler https://www.guzelkelimelerdukkani.com/
     - Manifold https://manifold.press/diziler/manifold-seyler-kitap-afis-vesaire
     - Kece İnadı http://keceinadi.com/
+    - Keep Shop https://thekeep.shop
     - Minimalissimo https://minimalissimo.shop/
     - Palto Tasarım https://www.paltotasarim.com/
     - PatentTalks https://patenttalks.com/
