@@ -19,5 +19,5 @@ javascript:(function()%7Bwindow.open('https://gezes.com/karekod.html?karekod='+l
 ### Translate web page
 Link:
 ```javascript
-javascript:(function()%7Bwindow.open('http://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&sl=auto&tl=tr&hl=&ie=UTF-8','_blank');%7D)()
+javascript:(function()%7Bwindow.open('https://translate.google.com/translate?u='+encodeURIComponent(location.href)+'&sl=auto&tl=tr&hl=&ie=UTF-8','_blank');%7D)()
 ```
