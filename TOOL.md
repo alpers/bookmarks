@@ -5,6 +5,7 @@
     - ColorHunt https://colorhunt.co
     - Coolors https://coolors.co
     - Design Assistant https://hotpot.ai/
+    - Evernote Design https://www.evernote.design
     - Flaticon https://www.flaticon.com/
     - Font Spark https://fontspark.app/
     - Freepik https://www.freepik.com/
