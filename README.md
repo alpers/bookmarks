@@ -1,13 +1,10 @@
 # bookmarks
 
-## [TOOLS & RESOURCES](/TOOL.md)
-Softwares, online tools, misc resources
-
-## [CODE GUIDES](/CODE.md)
+## [CODE GUIDES](/Code.md)
 Coding tools, guides, frameworks
 
-## [RESEARCH ARTICLES](/RESEARCH.md)
-Computer Science articles, IR, NLP, ML, AI
+## [TOOLS & RESOURCES](/Tool.md)
+Design tools, misc resources
 
 ## BUTTONS
 Create new bookmarks in favourites bar of your browser, then use them any opened page
