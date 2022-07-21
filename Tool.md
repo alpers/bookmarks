@@ -24,6 +24,7 @@
 
 - Gift
     - [Always Fashion](https://www.alwaysfashion.com/tr)
+    - [Atelier99](https://www.atelier99.co)
     - [Bohemtolia](https://tr.bohemtolia.com/)
     - [Butik Kafası](https://www.butikkafasi.com/)
     - [BuyMeOnce](https://buymeonce.com/)
@@ -41,6 +42,7 @@
     - [Roarcraft](https://roarcraft.com.tr/)
     - [Society6](https://society6.com/)
     - [Sosyopix](https://www.sosyopix.com/)
+    - [Souq](https://www.souqdukkan.com)
     - [Tasarım Takarım](http://tasarimtakarim.com/)
     - [Thieve](https://thieve.co/)
 
