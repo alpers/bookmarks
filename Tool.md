@@ -16,6 +16,7 @@
     - [Inspiration](https://www.evernote.design/categories/inspiration/)
     - [Image Resizer](https://promo.com/tools/image-resizer/)
     - [NoDesign Dev](https://nodesign.dev/)
+    - [Picture QR Generator](https://research.swtch.com/qr/draw/)
     - [Remove BG](https://www.remove.bg/)
     - [SimpleIcons](https://simpleicons.org/)
     - [SVG Animation](https://svgartista.net/)
